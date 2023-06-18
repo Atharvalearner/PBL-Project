@@ -1,6 +1,5 @@
 # PBL-Project
 import cv2
-
 # path of image
 path=r"C:\Users\Shree\Documents\image.jpg"
 # read image
